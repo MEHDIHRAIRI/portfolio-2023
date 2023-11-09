@@ -1,6 +1,6 @@
 // import content
 import { useEffect } from "react";
-import { content } from "../Content";
+import { content } from "../Content.js";
 
 const Hero = () => {
   const { hero } = content;
